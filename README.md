@@ -14,8 +14,13 @@
 |Defense without Forgetting: Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay               |0         |cvpr       |2024|https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Defense_without_Forgetting_Continual_Adversarial_Defense_with_Anisotropic__Isotropic_CVPR_2024_paper.pdf|
 |Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks                                          |1         |eccv       |2024|https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06271.pdf                                                                                                 |
 
+## Image Generation
+|paper|importance (for me)|conference |year|link|
+|-|-|-|-|-|
+| Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers| 1| ICCV| 2023|https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Efficient-VQGAN_Towards_High-Resolution_Image_Generation_with_Efficient_Vision_Transformers_ICCV_2023_paper.pdf|
+ 
 ## Image restoration
-|paper                                                                                                              |importance (for me)|conference |year|link                                                                                                                                                               |
+|paper|importance (for me)|conference |year|link|
 |-------------------------------------------------------------------------------------------------------------------|----------|-----------|----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |(LLMRA)LLMRA:Multi-modal Large Language Model based Restoration Assistant                                          |0         |uncommitted|2024|                                                                                                                                                                   |
 |(RestoreAgent)RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models                |0         |uncommit   |2024|                                                                                                                                                                   |

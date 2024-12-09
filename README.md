@@ -25,4 +25,5 @@
 |(LLMRA)LLMRA:Multi-modal Large Language Model based Restoration Assistant                                          |0         |uncommitted|2024|                                                                                                                                                                   |
 |(RestoreAgent)RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models                |0         |uncommit   |2024|                                                                                                                                                                   |
 |Estimating Fine-Grained Noise Model via Contrastive Learning                                                       |0         |cvpr       |2022|https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_Estimating_Fine-Grained_Noise_Model_via_Contrastive_Learning_CVPR_2022_paper.pdf                         |
+|(AdaCode) Learning Image-Adaptive Codebooks for Class-Agnostic Image Restoration|1|iccv|2023|https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Learning_Image-Adaptive_Codebooks_for_Class-Agnostic_Image_Restoration_ICCV_2023_paper.pdf|
 

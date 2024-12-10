@@ -17,8 +17,9 @@
 ## Image Generation
 |paper|importance (for me)|conference |year|link|
 |-|-|-|-|-|
-| Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers| 1| ICCV| 2023|https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Efficient-VQGAN_Towards_High-Resolution_Image_Generation_with_Efficient_Vision_Transformers_ICCV_2023_paper.pdf|
- 
+| Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers| 1| iccv| 2023|https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Efficient-VQGAN_Towards_High-Resolution_Image_Generation_with_Efficient_Vision_Transformers_ICCV_2023_paper.pdf|
+|(LDM origin paper) High-Resolution Image Synthesis with Latent Diffusion Models|1|cvpr|2022|https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf|
+
 ## Image restoration
 |paper|importance (for me)|conference |year|link|
 |-------------------------------------------------------------------------------------------------------------------|----------|-----------|----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|

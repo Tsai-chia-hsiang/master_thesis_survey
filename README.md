@@ -18,6 +18,7 @@
 ## Image Generation
 |paper|importance (for me)|conference |year|link|
 |-|-|-|-|-|
+|(VQGAN) Taming Transformers for High-Resolution Image Synthesis|1|cvpr|2021|https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf|
 | Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers| 1| iccv| 2023|https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Efficient-VQGAN_Towards_High-Resolution_Image_Generation_with_Efficient_Vision_Transformers_ICCV_2023_paper.pdf|
 |MaskGIT: Masked Generative Image Transformer|1|cvpr|2022|https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_MaskGIT_Masked_Generative_Image_Transformer_CVPR_2022_paper.pdf|
 |A Pytorch Reproduction of Masked Generative Image Transformer|1|re-implement|re-implement|https://arxiv.org/pdf/2310.14400|

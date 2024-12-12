@@ -1,4 +1,4 @@
-# master_thesis_survey
+# Master Thesis Survey
 
 ## Adversarial Defense
 |paper                                                                                                              |importance (for me)|conference |year|link                                                                                                                                                               |
@@ -12,7 +12,8 @@
 |The Best Defense is a Good Offense: Adversarial Augmentation against Adversarial Attacks                           |0         |cvpr       |2023|https://openaccess.thecvf.com/content/CVPR2023/papers/Frosio_The_Best_Defense_Is_a_Good_Offense_Adversarial_Augmentation_Against_CVPR_2023_paper.pdf               |
 |Adversarial Robustness via Random Projection Filters                                                               |1         |cvpr       |2023|https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Adversarial_Robustness_via_Random_Projection_Filters_CVPR_2023_paper.pdf                                |
 |Defense without Forgetting: Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay               |0         |cvpr       |2024|https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Defense_without_Forgetting_Continual_Adversarial_Defense_with_Anisotropic__Isotropic_CVPR_2024_paper.pdf|
-|Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks                                          |1         |eccv       |2024|https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06271.pdf                                                                                                 |
+|Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks                                          |1         |eccv       |2024|https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06271.pdf|
+|Defending against Universal Adversarial Patches by Clipping Feature Norms|0|iccv|2021|https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Defending_Against_Universal_Adversarial_Patches_by_Clipping_Feature_Norms_ICCV_2021_paper.pdf|
 
 ## Image Generation
 |paper|importance (for me)|conference |year|link|

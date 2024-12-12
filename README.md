@@ -22,7 +22,7 @@
 |MaskGIT: Masked Generative Image Transformer|1|cvpr|2022|https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_MaskGIT_Masked_Generative_Image_Transformer_CVPR_2022_paper.pdf|
 |A Pytorch Reproduction of Masked Generative Image Transformer|1|re-implement|re-implement|https://arxiv.org/pdf/2310.14400|
 |(LDM origin paper) High-Resolution Image Synthesis with Latent Diffusion Models|1|cvpr|2022|https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf|
-
+|M2T: Masking Transformers Twice for Faster Decoding|1|iccv|2023|https://openaccess.thecvf.com/content/ICCV2023/papers/Mentzer_M2T_Masking_Transformers_Twice_for_Faster_Decoding_ICCV_2023_paper.pdf|
 ## Image restoration
 |paper|importance (for me)|conference |year|link|
 |-------------------------------------------------------------------------------------------------------------------|----------|-----------|----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|

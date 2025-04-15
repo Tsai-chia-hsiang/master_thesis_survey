@@ -14,11 +14,13 @@
 |Defense without Forgetting: Continual Adversarial Defense with Anisotropic & Isotropic Pseudo Replay               |0         |cvpr       |2024|https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Defense_without_Forgetting_Continual_Adversarial_Defense_with_Anisotropic__Isotropic_CVPR_2024_paper.pdf|
 |Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks                                          |1         |eccv       |2024|https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06271.pdf|
 |Defending against Universal Adversarial Patches by Clipping Feature Norms|0|iccv|2021|https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Defending_Against_Universal_Adversarial_Patches_by_Clipping_Feature_Norms_ICCV_2021_paper.pdf|
+|NAPGuard: Towards Detecting Naturalistic Adversarial Patches|1|cvpr|2024|https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_NAPGuard_Towards_Detecting_Naturalistic_Adversarial_Patches_CVPR_2024_paper.pdf#page=6.04
 
 ## Image Generation
 |paper|importance (for me)|conference |year|link|
 |-|-|-|-|-|
 |(VQGAN) Taming Transformers for High-Resolution Image Synthesis|1|cvpr|2021|https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf|
+|MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation|0|NeurIPS|2022|https://openreview.net/forum?id=Qb-AoSw4Jnm|
 | Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers| 1| iccv| 2023|https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Efficient-VQGAN_Towards_High-Resolution_Image_Generation_with_Efficient_Vision_Transformers_ICCV_2023_paper.pdf|
 |MaskGIT: Masked Generative Image Transformer|1|cvpr|2022|https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_MaskGIT_Masked_Generative_Image_Transformer_CVPR_2022_paper.pdf|
 |A Pytorch Reproduction of Masked Generative Image Transformer|1|re-implement|re-implement|https://arxiv.org/pdf/2310.14400|
